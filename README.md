@@ -21,23 +21,9 @@ Interested in Computational Physics, Quantum Computation and Quantum Information
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-----------------------------------------------------------------------------------------
-
-## Currently Studing:
-
-![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
-
-----------------------------------------------------------------------------------------
-
-## Sometimes writing something:
-
-[Fortran Blog](https://gus-mo.github.io/fortranblog/)
-
-
-
-
+<!---
 - 📫 How to reach me: Just send me an e-mail :D
-
+--->
 
 <!---
 Gus-MO/Gus-MO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
