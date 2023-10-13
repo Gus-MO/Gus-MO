@@ -4,7 +4,7 @@ Eu sou um estudante de Física, com experiências em educação e análise de da
 
 Atualmente estou buscando um maior aprofundamento em ciência de dados, bem como oportunidades de atuar na área.
 
-----------------------------------------------------------------------------------------
+Eventualmente produzindo conteúdo: [About Physics](Gus-MO/About-Physics)
 
 ## Já trabalhei com:
 
@@ -20,8 +20,6 @@ Atualmente estou buscando um maior aprofundamento em ciência de dados, bem como
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
-----------------------------------------------------------------------------------------
 
 ## Contato
 
