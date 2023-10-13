@@ -4,7 +4,7 @@ Eu sou um estudante de Física, com experiências em educação e análise de da
 
 Atualmente estou buscando um maior aprofundamento em ciência de dados, bem como oportunidades de atuar na área.
 
-Eventualmente produzindo conteúdo: [About Physics](Gus-MO/About-Physics)
+Eventualmente produzindo conteúdo: [About Physics](About-Physics)
 
 ## Já trabalhei com:
 
