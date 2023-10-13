@@ -1,12 +1,12 @@
-# Hi, I’m @Gus-MO
+# Olá, eu sou Gustavo Martins.
 
-I'm Undergraduating in Physics, looking for colaborating primaly on scientific projects.
+Eu sou um estudante de Física, com experiências em educação e análise de dados.
 
-Interested in Computational Physics, Quantum Computation and Quantum Information.
+Atualmente estou buscando um maior aprofundamento em ciência de dados, bem como oportunidades de atuar na área.
 
 ----------------------------------------------------------------------------------------
 
-## Worked previouly with:
+## Já trabalhei com:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -20,6 +20,12 @@ Interested in Computational Physics, Quantum Computation and Quantum Information
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+----------------------------------------------------------------------------------------
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-martins-oliveira-49867b1b8/)
 
 <!---
 - 📫 How to reach me: Just send me an e-mail :D
